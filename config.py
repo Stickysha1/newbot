@@ -1,0 +1,3 @@
+token = '557545126:AAFBL1LjBuXvKld7lJ_c39i_Z8rL-sDJsSw'
+users = ['286119480', '122702220', '1012948672', '894258576']
+proxy = 'socks5h://OblWork2018:AaGbnth2019AaVjcrdf@51.15.103.145:29467'
